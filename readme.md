@@ -87,8 +87,8 @@ Response: The updated student object.
 
 ## **How to Run**  
 1. Clone the repository and navigate to the project directory.  
-2. Build and run the application using Maven:  
+2. Build and run the application using Maven: 
+git clone https://github.com/deepakmali-09/spring-data-jpa-p01.git 
    ```bash  
-3. git clone https://github.com/deepakmali-09/spring-data-jpa-p01.git
 
 4. mvn spring-boot:run  
